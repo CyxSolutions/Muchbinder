@@ -1,5 +1,5 @@
 # Muchbinder
-###### Ohne Blacklist und anderen Sperrfunktionen!
+###### Ohne Blacklist und andere Sperrfunktionen!
 
 ![Muchbinder](banner.gif)
  
