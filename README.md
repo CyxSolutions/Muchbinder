@@ -1,4 +1,7 @@
 # Muchbinder
+
+![Muchbinder](https://download.nes-interfaces.de/banner.gif)
+ 
  Open Source Binder für die Nova Plattform
  
  Funktionen:
