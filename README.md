@@ -1,9 +1,8 @@
 # Muchbinder
+##### Open Source Binder für die Nova Plattform
 ###### Ohne Blacklist und andere Sperrfunktionen!
 
 ![Muchbinder](banner.gif)
- 
- Open Source Binder für die Nova Plattform
  
  Funktionen:
  - Socket Kommunikation
