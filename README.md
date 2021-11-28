@@ -15,11 +15,23 @@
 	- PED-Slot Overlay
 	- Timer Overlay (Frakrespawn, Friedhof & Use Timer)
 	- Inventar Overlay
-	- Wanted Overlay
+	- Wanted Overlay (+ Wantedlabel über Spielerkopf wenn in LoS)
 	- Fraktions-Overlay
 	- Gruppierungs-Overlay
+	- Gegner Overlay
+	- Notiz Overlay
+- Staatsfunktionen
+	- /vs System (/callvs und /d Nachricht)
+	- /inc System (INC Text im /d Chat + Anzahl)
+	- /clear System (/d außerhalb vom Fahrzeug)
+	- /wpbinds System (/d außerhalb vom Fahrzeug)
+- Badfrakfunktionen
+	- Gelegte Conts und Plants anzeigen
+	- Flaggenbiz und GW Punkte abrufen
 - Keybinds
 - Frakbinds
 - Textbinds
 - Autobinds
 - Posbinds
+- HUD Editor
+- Sprinthook
